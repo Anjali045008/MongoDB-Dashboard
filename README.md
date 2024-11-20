@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bcbe0650-383f-4012-825a-21ad7976da9a)
+
 # MongoDB-Dashboard
 ## Questions:
 ### General Overview:
