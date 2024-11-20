@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/bcbe0650-383f-4012-825a-21ad7976da9a)
-
 # MongoDB-Dashboard
+
+![Biodiversity Insights_ Conservation Status and Species Distribution in USA](https://github.com/user-attachments/assets/d6e27a79-5280-445f-b32d-ccecd5bfe247)
+
 ## Questions:
 ### General Overview:
 Q1.How many distinct species and samples are being monitored?
