@@ -106,6 +106,15 @@ This interactive dashboard was built using **MongoDB Charts** to visualize the d
 
 ---
 
+## **Managerial Insights**
+- Prioritize Endangered Groups: Focus on conservation programs for birds, flowering plants, amphibians, and reptiles.
+- Target Biodiversity Hotspots: Allocate resources to counties like Suffolk and Orange with high species diversity.
+- Strengthen Legal Protections: Update laws and improve enforcement for "Protected" and "Special Concern" species.
+- Address Critically Imperiled Species: Direct funds and research toward S1 (state) and G1 (global) ranked species.
+- Balance Monitoring Efforts: Improve monitoring of underrepresented species while maintaining focus on common species.
+- Foster Regional Collaboration: Coordinate conservation strategies across counties to pool resources and expertise.
+- Engage Communities: Promote eco-friendly practices and incentivize local participation in conservation efforts.
+
 ## How to Use the Dashboard
 1. Load the dataset into a MongoDB collection.
 2. Connect MongoDB Charts to the dataset.
